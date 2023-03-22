@@ -40,3 +40,6 @@ my-website
 
 /sidebars.js - 生成文档时使用此文件来指定侧边栏中的文档顺序。
 ```
+
+# 部署到github page
+[参考资料](https://yingwinwin.github.io/blog/%E4%BD%BF%E7%94%A8docusaurus%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%EF%BC%8C%E5%B9%B6%E9%83%A8%E7%BD%B2%E5%88%B0github%20pages/)
