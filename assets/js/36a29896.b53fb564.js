@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrose_website=self.webpackChunkrose_website||[]).push([[9074],{5855:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/rose-website/blog/tags/facebook","allTagsPath":"/rose-website/blog/tags","count":1}')}}]);
